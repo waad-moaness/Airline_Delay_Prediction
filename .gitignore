@@ -1,0 +1,11 @@
+# Jupyter Checkpoints 
+.ipynb_checkpoints/
+
+#  ML artifacts and environment files 
+
+*.pkl
+*.joblib
+*.bin
+venv/
+.venv/
+__pycache__/
