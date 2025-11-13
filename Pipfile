@@ -7,11 +7,13 @@ name = "pypi"
 pandas = "*"
 numpy = "*"
 fastapi = "*"
-xgboost = "*"
 scikit-learn = "*"
 uvicorn = "*"
 jupyter = "*"
 notebook = "*"
+xgboost = "*"
+seaborn = "*"
+matplotlib = "*"
 
 [dev-packages]
 
