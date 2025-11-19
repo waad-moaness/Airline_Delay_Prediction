@@ -133,3 +133,9 @@ The model expects a JSON payload containing the aggregated monthly stats for a s
 * **Granular Data:** Incorporate daily or individual flight-level data to allow for real-time, single-flight predictions.
 * **Weather Integration:** Add specific weather data (precipitation, wind speed) for the airport/month to improve regression accuracy.
 * **Cloud Deployment:** Deploy the containerized service to a cloud provider like AWS Elastic Beanstalk or Google Cloud Run.
+
+
+## Demo Video
+
+Uploading Screencast From 2025-11-19 23-33-46.mp4…
+
