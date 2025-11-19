@@ -62,7 +62,7 @@ The models were evaluated using **Root Mean Squared Error (RMSE)** and **R-squar
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/waad-moaness/Airline_Delay_Prediction.git](https://github.com/waad-moaness/Airline_Delay_Prediction.git)
+    git clone https://github.com/waad-moaness/Airline_Delay_Prediction.git
     cd Airline_Delay_Prediction
     ```
 2.  **Prerequisites**
