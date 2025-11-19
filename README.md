@@ -137,5 +137,7 @@ The model expects a JSON payload containing the aggregated monthly stats for a s
 
 ## Demo Video
 
-Uploading Screencast From 2025-11-19 23-33-46.mp4…
+https://github.com/user-attachments/assets/58430514-cf3a-490b-b72c-70dd16473a46
+
+
 
