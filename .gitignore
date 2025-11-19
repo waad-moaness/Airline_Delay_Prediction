@@ -5,7 +5,6 @@
 
 *.pkl
 *.joblib
-*.bin
 venv/
 .venv/
 __pycache__/
